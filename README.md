@@ -2,8 +2,6 @@
 Hi there, I'm Ai Lin 👋
 </h3>
 
-</br>
-
 ## 🌱 I'm currently enrolled in Cloud Support and Devops Programme by [Generation Singapore](https://www.linkedin.com/company/generation-singapore/?originalSubdomain=sg). The nine months programme started on 31 March 2022. 
 
 
