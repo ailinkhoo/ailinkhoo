@@ -6,7 +6,7 @@ Hi there, I'm Ai Lin 👋
 
 
 ### Updates: 
-- Notes 
+- [Notes](https://github.com/ailinkhoo/notes/blob/main/README.md) 
 - Projects
 
 ### Connect with me 🤝 : 
