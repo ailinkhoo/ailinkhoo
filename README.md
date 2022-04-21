@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm Ai Lin 👋
+Hello, I'm Ai Lin 👋
 </h3>
 
 ## 🌱 I'm currently enrolled in Cloud Support and DevOps Programme by [Generation Singapore](https://www.linkedin.com/company/generation-singapore/?originalSubdomain=sg). The nine months programme started on 31 March 2022. 
@@ -7,7 +7,7 @@ Hi there, I'm Ai Lin 👋
 
 ### Updates: 
 - [Notes](https://github.com/ailinkhoo/notes/blob/main/README.md) 
-- Projects
+
 
 ### Connect with me 🤝 : 
 <a href="https://www.linkedin.com/in/ai-lin-khoo"><img src="https://raw.githubusercontent.com/ailinkhoo/ailinkhoo/main/images/linkedin.png" alt="Ai Lin | LinkedIn" width="21px"/></a>
