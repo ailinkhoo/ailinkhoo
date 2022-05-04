@@ -10,7 +10,7 @@ Hello, I'm Ai Lin 👋
 
 
 ### Connect with me 🤝 : 
-<a href="www.linkedin.com/in/ailinkhoo"><img src="https://raw.githubusercontent.com/ailinkhoo/ailinkhoo/main/images/linkedin.png" alt="Ai Lin | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ailinkhoo"><img src="https://raw.githubusercontent.com/ailinkhoo/ailinkhoo/main/images/linkedin.png" alt="Ai Lin | LinkedIn" width="21px"/></a>
 </br>
 <!---
 ailinkhoo/ailinkhoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
